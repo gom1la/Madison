@@ -79,3 +79,4 @@ footer{background:var(--aubergine);color:rgba(255,255,255,.68);padding-top:36px}
 .video-hero h1{transform:translateX(-.045em)}
 .site-header nav{align-items:center}
 .site-header nav>a{display:flex;align-items:center;height:25px;line-height:1}
+@media(max-width:560px){footer{grid-template-columns:auto 1fr auto;grid-template-areas:"brand city social" "copy copy copy";align-items:center;column-gap:16px}.footer-brand{grid-area:brand}.footer-brand+p{grid-area:city;margin:0}.footer-socials{grid-area:social;justify-self:end;align-self:center}footer>p:last-child{grid-area:copy;margin-top:20px}}
