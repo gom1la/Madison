@@ -79,4 +79,15 @@ footer{background:var(--aubergine);color:rgba(255,255,255,.68);padding-top:36px}
 .video-hero h1{transform:translateX(-.045em)}
 .site-header nav{align-items:center}
 .site-header nav>a{display:flex;align-items:center;height:25px;line-height:1}
+
+@media(max-width:560px){
+  .menu-section{padding-top:68px;padding-bottom:68px}
+  .menu-section .section-head{margin-bottom:32px}
+  .category-row .category-card,.category-row .category-card:hover,.category-row .category-card:focus-visible{min-height:148px;margin-bottom:10px;overflow:hidden}
+  .category-front{padding:18px 20px;transform:none!important;opacity:1!important}
+  .category-icon{width:36px;height:36px}
+  .category-front h3{font-size:23px;line-height:1.02;max-width:100%}
+  .category-front span{margin-top:7px}
+  .category-preview{display:none}
+}
 @media(max-width:560px){footer{grid-template-columns:auto 1fr auto;grid-template-areas:"brand city social" "copy copy copy";align-items:center;column-gap:16px}.footer-brand{grid-area:brand}.footer-brand+p{grid-area:city;margin:0}.footer-socials{grid-area:social;justify-self:end;align-self:center}footer>p:last-child{grid-area:copy;margin-top:20px}}
