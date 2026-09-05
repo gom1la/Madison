@@ -1,0 +1,914 @@
+[
+  {
+    "file": "META-INF\\metadata.xml",
+    "type": "application/rdf+xml",
+    "bytes": 18035,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-09d91a9b-4eac-478f-a819-007f6683c46c\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 18456,
+    "verified": true
+  },
+  {
+    "file": "homeThumbnail.png",
+    "type": "image/png",
+    "bytes": 23136,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-9748d194-652a-47b1-811e-db18cc28df9c\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 6811,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-9748d194-652a-47b1-811e-db18cc28df9c\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 73729,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-09d91a9b-4eac-478f-a819-007f6683c46c\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 73910,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a1bcb300-8070-4818-9be9-702dd0ada9d5\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 83209,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-c915f4c6-1591-498b-8bbf-24d4c8fa73fa\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 64085,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a1bcb300-8070-4818-9be9-702dd0ada9d5\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 15069,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-edaa8578-49b9-45e0-9d50-98ffbc189144\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 70875,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-edaa8578-49b9-45e0-9d50-98ffbc189144\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 149985,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-c915f4c6-1591-498b-8bbf-24d4c8fa73fa\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 39254,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a07787ef-01f3-4c85-b418-5aa5d9597ab0\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 23964,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a07787ef-01f3-4c85-b418-5aa5d9597ab0\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 146903,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-bd73641d-7de0-41b5-8933-bb5d8b551e4c\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 49780,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-398ede91-b5ad-44bb-8bb4-82977029f248\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 53299,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-bd73641d-7de0-41b5-8933-bb5d8b551e4c\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 150427,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-398ede91-b5ad-44bb-8bb4-82977029f248\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 188196,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-72909fdd-6635-42d0-bc2c-e5abb91b72db\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 56520,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a33c43d9-8e9a-4918-84b9-ac5013625dd4\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 63734,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-98f6a768-10ad-43b4-a27b-609a8fcd646e\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 52165,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-a33c43d9-8e9a-4918-84b9-ac5013625dd4\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 146909,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-98f6a768-10ad-43b4-a27b-609a8fcd646e\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 182034,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e265d063-3d4f-4a59-9910-1abe6dd3d9f1\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 142882,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e265d063-3d4f-4a59-9910-1abe6dd3d9f1\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 66006,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e20f7faf-2e91-4349-bfd8-1b7f872ffcd0\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 27685,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-59a87e5f-a692-4311-a7b2-0aa8ac8f4940\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 25099,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e20f7faf-2e91-4349-bfd8-1b7f872ffcd0\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 44774,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-acea0c36-de4e-4b49-961d-b462ad510138\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28345,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-59a87e5f-a692-4311-a7b2-0aa8ac8f4940\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 46158,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-72909fdd-6635-42d0-bc2c-e5abb91b72db\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 89885,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-18043590-dcfd-4962-9628-dd1c1df254c5\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 27404,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-18043590-dcfd-4962-9628-dd1c1df254c5\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 46145,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-acea0c36-de4e-4b49-961d-b462ad510138\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 45575,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-0ffe877b-1e78-4ef6-bcbf-faf00735cf84\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 27378,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-0ffe877b-1e78-4ef6-bcbf-faf00735cf84\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 45504,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e24feea7-aa99-4bd5-9f73-57e340347ac1\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 45813,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-94ad09eb-ca51-47b1-98b6-ca5d0c230bf6\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28046,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-e24feea7-aa99-4bd5-9f73-57e340347ac1\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28181,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-2da2ffa2-7171-4978-b6f1-072af7c7e620\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28128,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-94ad09eb-ca51-47b1-98b6-ca5d0c230bf6\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 46876,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-87a3ba1b-321f-43f7-b175-9f5095aa5de6\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 27615,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-87a3ba1b-321f-43f7-b175-9f5095aa5de6\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 47796,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-2da2ffa2-7171-4978-b6f1-072af7c7e620\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 46458,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-9f5b5dc6-11c4-4ec5-8535-f52bc8b8ae1d\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28802,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-9f5b5dc6-11c4-4ec5-8535-f52bc8b8ae1d\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 43176,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-718d65ed-0a7e-4afe-931e-4f1aded260cb\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 29763,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-49c0519d-74c2-4fc6-b25e-509fd9e092cf\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 25930,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1e42e208-b106-4dfa-bb37-cfa2191d38e2\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 114078,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1e42e208-b106-4dfa-bb37-cfa2191d38e2\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 26404,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-0d825809-c416-448f-9565-b50d9a9e7f15\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 227475,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-718d65ed-0a7e-4afe-931e-4f1aded260cb\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 210652,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-49c0519d-74c2-4fc6-b25e-509fd9e092cf\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 127645,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-3592d8b1-5de7-48cd-a2c2-235e3cf0709b\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 28715,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-0d825809-c416-448f-9565-b50d9a9e7f15\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 27371,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-5b9c8d1f-3239-4006-a31d-ddc1b42d225e\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 24179,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-3592d8b1-5de7-48cd-a2c2-235e3cf0709b\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 170374,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1c3d98b8-751e-4c6a-8dda-9a7efb13924c\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 29487,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-5b9c8d1f-3239-4006-a31d-ddc1b42d225e\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 105481,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-02596065-113a-4b2d-9fb8-981ee29dc555\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 31344,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1c3d98b8-751e-4c6a-8dda-9a7efb13924c\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 155125,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-02596065-113a-4b2d-9fb8-981ee29dc555\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 193859,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1ffe9f75-e651-4219-b55d-7b82863c4f6c\\thumbnailGraphicContent.png",
+    "type": "image/png",
+    "bytes": 51772,
+    "verified": true
+  },
+  {
+    "file": "artwork\\artboard-1ffe9f75-e651-4219-b55d-7b82863c4f6c\\graphics\\graphicContent.agc",
+    "type": "application/vnd.adobe.agc.graphicsTree+json",
+    "bytes": 300659,
+    "verified": true
+  },
+  {
+    "file": "interactions\\interactions.json",
+    "type": "application/vnd.adobe.uxdesign.interactions+json",
+    "bytes": 20762,
+    "verified": true
+  },
+  {
+    "file": "resources\\846d6681d96c1adfab5c5fd51d4b9a50",
+    "type": "image/webp",
+    "bytes": 22044,
+    "verified": true
+  },
+  {
+    "file": "resources\\9e7aee592f418c3c98e3ef33df520ff2",
+    "type": "image/webp",
+    "bytes": 21162,
+    "verified": true
+  },
+  {
+    "file": "resources\\76f307416ef8ad2877ab371e3f0e12c8",
+    "type": "image/webp",
+    "bytes": 19352,
+    "verified": true
+  },
+  {
+    "file": "resources\\e74072f1a59c0df6d686ab3a479d45b5",
+    "type": "image/webp",
+    "bytes": 24844,
+    "verified": true
+  },
+  {
+    "file": "resources\\97c0abc67de9fc915e1cb251d7f0383b",
+    "type": "image/webp",
+    "bytes": 25168,
+    "verified": true
+  },
+  {
+    "file": "resources\\8454758432b2da2f34aa7692ae27e298",
+    "type": "image/webp",
+    "bytes": 20768,
+    "verified": true
+  },
+  {
+    "file": "resources\\7d58158e4d0968758faafddfb30e5d79",
+    "type": "image/webp",
+    "bytes": 37962,
+    "verified": true
+  },
+  {
+    "file": "resources\\02095feff83d5e49bdede65f1ecdf133",
+    "type": "image/webp",
+    "bytes": 38652,
+    "verified": true
+  },
+  {
+    "file": "resources\\e9515a4aae6616d2a684e9d94d9fe7ad",
+    "type": "image/webp",
+    "bytes": 22224,
+    "verified": true
+  },
+  {
+    "file": "resources\\639eb6b86c594a6a6862e03748314a37",
+    "type": "image/webp",
+    "bytes": 26850,
+    "verified": true
+  },
+  {
+    "file": "resources\\ba1da97af4a99f9ab0e24ec7eabb7f83",
+    "type": "image/webp",
+    "bytes": 496,
+    "verified": true
+  },
+  {
+    "file": "resources\\20161311722c58236cc113f35f784c73",
+    "type": "image/webp",
+    "bytes": 20234,
+    "verified": true
+  },
+  {
+    "file": "resources\\41db98aec1953055e09d7a76238da24e",
+    "type": "image/webp",
+    "bytes": 19072,
+    "verified": true
+  },
+  {
+    "file": "resources\\907baa4bbb86af2d0e0885d5a57ee63c",
+    "type": "image/webp",
+    "bytes": 22786,
+    "verified": true
+  },
+  {
+    "file": "resources\\47039839207259551655a152f9b5e6ff",
+    "type": "image/webp",
+    "bytes": 21634,
+    "verified": true
+  },
+  {
+    "file": "resources\\df43abc34d30281bdc056b5faa407b2c",
+    "type": "image/webp",
+    "bytes": 21474,
+    "verified": true
+  },
+  {
+    "file": "resources\\4f6cdeda76ee754434bda2ec7071b759",
+    "type": "image/webp",
+    "bytes": 17898,
+    "verified": true
+  },
+  {
+    "file": "resources\\593ac7f54853e0fa3d4eb2eae4b57f02",
+    "type": "image/webp",
+    "bytes": 27854,
+    "verified": true
+  },
+  {
+    "file": "resources\\ccfb185391c6ecd61a22c05a008a4f66",
+    "type": "image/webp",
+    "bytes": 15108,
+    "verified": true
+  },
+  {
+    "file": "resources\\b6cab3e7aeec81377359cc333134ce9d",
+    "type": "image/webp",
+    "bytes": 18052,
+    "verified": true
+  },
+  {
+    "file": "resources\\a1016b0f8dd7d458b4db9db3350c2a7b",
+    "type": "image/webp",
+    "bytes": 227810,
+    "verified": true
+  },
+  {
+    "file": "resources\\427ed44eea87493af5b4ad9f02d10da5",
+    "type": "image/webp",
+    "bytes": 45484,
+    "verified": true
+  },
+  {
+    "file": "resources\\d6b828eb2f0c2791899ccaefd64068be",
+    "type": "image/webp",
+    "bytes": 23326,
+    "verified": true
+  },
+  {
+    "file": "resources\\19a59ddd124d06854799e5ae429be60c",
+    "type": "image/webp",
+    "bytes": 286052,
+    "verified": true
+  },
+  {
+    "file": "resources\\0dddee78f27c6590a5f6922e64bc0a46",
+    "type": "image/webp",
+    "bytes": 26336,
+    "verified": true
+  },
+  {
+    "file": "resources\\d65d386710d5b5feedaa94ac5a030aac",
+    "type": "image/webp",
+    "bytes": 51036,
+    "verified": true
+  },
+  {
+    "file": "resources\\dca0d9a5d8446b99ae0d0b9c7ce0bd92",
+    "type": "image/webp",
+    "bytes": 22780,
+    "verified": true
+  },
+  {
+    "file": "resources\\61975a2b70e0ef30eacb076de89a741e",
+    "type": "image/webp",
+    "bytes": 5808,
+    "verified": true
+  },
+  {
+    "file": "resources\\601fc700e900e969f11be048af035665",
+    "type": "image/webp",
+    "bytes": 29332,
+    "verified": true
+  },
+  {
+    "file": "resources\\e7925db15a0d8a6c26818887de967885",
+    "type": "image/webp",
+    "bytes": 22958,
+    "verified": true
+  },
+  {
+    "file": "resources\\531c5e2afb2dc3b57511bf5570c8fb0f",
+    "type": "image/webp",
+    "bytes": 73252,
+    "verified": true
+  },
+  {
+    "file": "resources\\301383f0fd87daa25bbaba31b6fd781e",
+    "type": "image/webp",
+    "bytes": 55418,
+    "verified": true
+  },
+  {
+    "file": "resources\\610a01668f16fb53c7f4b9d94f4db084",
+    "type": "image/webp",
+    "bytes": 44994,
+    "verified": true
+  },
+  {
+    "file": "resources\\2340d8c0d623f940f5551a332c39c991",
+    "type": "image/webp",
+    "bytes": 31030,
+    "verified": true
+  },
+  {
+    "file": "resources\\c2bdc387037536e13d43dc4cc6cea90b",
+    "type": "image/webp",
+    "bytes": 42692,
+    "verified": true
+  },
+  {
+    "file": "resources\\04f1a740139740fd6e11812b6f192ea5",
+    "type": "image/webp",
+    "bytes": 24628,
+    "verified": true
+  },
+  {
+    "file": "resources\\2778abd7b6123bd091de3cb069f4d51a",
+    "type": "image/webp",
+    "bytes": 30728,
+    "verified": true
+  },
+  {
+    "file": "resources\\15af78807a7be33245ec207c1fbfb32e",
+    "type": "image/webp",
+    "bytes": 35816,
+    "verified": true
+  },
+  {
+    "file": "resources\\bade2635167438e98f9fdfb9e1e4863f",
+    "type": "image/webp",
+    "bytes": 67594,
+    "verified": true
+  },
+  {
+    "file": "resources\\abbb36c8f97a9c8ca859a2c566098cc0",
+    "type": "image/webp",
+    "bytes": 27690,
+    "verified": true
+  },
+  {
+    "file": "resources\\413db843a37f18271ea8813dfb3c07ef",
+    "type": "image/webp",
+    "bytes": 36184,
+    "verified": true
+  },
+  {
+    "file": "resources\\f630e52511fa71dabcc77e1a4924e052",
+    "type": "image/webp",
+    "bytes": 50120,
+    "verified": true
+  },
+  {
+    "file": "resources\\aa06cacb26afb9b0f1cb1b2d472dbdfe",
+    "type": "image/webp",
+    "bytes": 61254,
+    "verified": true
+  },
+  {
+    "file": "resources\\2ea16aa2d575d502a16b214e6af5b1b3",
+    "type": "image/webp",
+    "bytes": 76384,
+    "verified": true
+  },
+  {
+    "file": "resources\\9573bb8b7371636d47c2e000c78a23b4",
+    "type": "image/webp",
+    "bytes": 41142,
+    "verified": true
+  },
+  {
+    "file": "resources\\ff2aba1d10a182c3833cb64394fe1dee",
+    "type": "image/webp",
+    "bytes": 76298,
+    "verified": true
+  },
+  {
+    "file": "resources\\e9c34f01fa65d9c9c72d0fe238ebda8c",
+    "type": "image/webp",
+    "bytes": 68396,
+    "verified": true
+  },
+  {
+    "file": "resources\\d9f30e18c8ece34608a23c61df3c4f1c",
+    "type": "image/webp",
+    "bytes": 80880,
+    "verified": true
+  },
+  {
+    "file": "resources\\f4bfb45c6624d7fe070646207d91b0a1",
+    "type": "image/webp",
+    "bytes": 56052,
+    "verified": true
+  },
+  {
+    "file": "resources\\ca02a325d800dec4e68124573afbddd1",
+    "type": "image/webp",
+    "bytes": 69706,
+    "verified": true
+  },
+  {
+    "file": "resources\\44ba94209bb26413c3d235041773f24e",
+    "type": "image/webp",
+    "bytes": 79486,
+    "verified": true
+  },
+  {
+    "file": "resources\\2207348aad60ad6ec4aa1f92b4244920",
+    "type": "image/webp",
+    "bytes": 7150,
+    "verified": true
+  },
+  {
+    "file": "resources\\f92e5994c4d2f1eb39edc44cd47d4811",
+    "type": "image/webp",
+    "bytes": 68146,
+    "verified": true
+  },
+  {
+    "file": "resources\\faafd29f081c4ccfe3d7b96afbe91ffe",
+    "type": "image/webp",
+    "bytes": 2568,
+    "verified": true
+  },
+  {
+    "file": "resources\\bd63e4c90ac2f5973ec4edd75c064400",
+    "type": "image/webp",
+    "bytes": 16750,
+    "verified": true
+  },
+  {
+    "file": "resources\\076c7f7fddd73668aecb94313a3bfa0b",
+    "type": "image/webp",
+    "bytes": 24510,
+    "verified": true
+  },
+  {
+    "file": "resources\\43b340e7ed73738cc4417f4a718d86aa",
+    "type": "image/webp",
+    "bytes": 57712,
+    "verified": true
+  },
+  {
+    "file": "resources\\9f6b74d3e6c1661d3097883b6a84ff35",
+    "type": "image/webp",
+    "bytes": 162370,
+    "verified": true
+  },
+  {
+    "file": "resources\\d78a1b48e64fae256f0c439fc218f20d",
+    "type": "image/webp",
+    "bytes": 48838,
+    "verified": true
+  },
+  {
+    "file": "resources\\c2a5b39261c81d5f3d7f58226a1878e2",
+    "type": "image/webp",
+    "bytes": 27098,
+    "verified": true
+  },
+  {
+    "file": "resources\\bf1da6e86e02f191b9b09a27d34f18da",
+    "type": "image/webp",
+    "bytes": 25928,
+    "verified": true
+  },
+  {
+    "file": "resources\\0a82b7263d3725aba51ec29f4cac73fa",
+    "type": "image/webp",
+    "bytes": 876,
+    "verified": true
+  },
+  {
+    "file": "resources\\419ddb6f75531cdf1a779ebdba6357ee",
+    "type": "image/webp",
+    "bytes": 34262,
+    "verified": true
+  },
+  {
+    "file": "resources\\3560d94ded4672b6e50c8ccdc0c4ffd4",
+    "type": "image/webp",
+    "bytes": 1410,
+    "verified": true
+  },
+  {
+    "file": "resources\\4ada786aff799df259af725a5f023828",
+    "type": "image/webp",
+    "bytes": 97370,
+    "verified": true
+  },
+  {
+    "file": "resources\\1a5f9cb54a764e5273635c42dab9f178",
+    "type": "image/webp",
+    "bytes": 57236,
+    "verified": true
+  },
+  {
+    "file": "resources\\d903f8cf07a1ffcea02513c9a718c2c2",
+    "type": "image/webp",
+    "bytes": 54198,
+    "verified": true
+  },
+  {
+    "file": "resources\\f41e95440a330ee9f3d9ae0414e1aa63",
+    "type": "image/webp",
+    "bytes": 51474,
+    "verified": true
+  },
+  {
+    "file": "resources\\de9f319714b38c4e00f2d5c014601073",
+    "type": "image/webp",
+    "bytes": 51866,
+    "verified": true
+  },
+  {
+    "file": "resources\\3735f11320fc9532b20781cc98e4e3c2",
+    "type": "image/webp",
+    "bytes": 60654,
+    "verified": true
+  },
+  {
+    "file": "resources\\4d783d402179300abfd8e7337d1f1180",
+    "type": "image/webp",
+    "bytes": 55398,
+    "verified": true
+  },
+  {
+    "file": "resources\\c30e724ab3f4d5e514bd143056cbf752",
+    "type": "image/webp",
+    "bytes": 54766,
+    "verified": true
+  },
+  {
+    "file": "resources\\59faaa37927b069719a6423405cf6ada",
+    "type": "image/webp",
+    "bytes": 57682,
+    "verified": true
+  },
+  {
+    "file": "resources\\66cb7bf47bdefa4fdcc4a5e33d12d5e8",
+    "type": "image/webp",
+    "bytes": 60706,
+    "verified": true
+  },
+  {
+    "file": "resources\\ef67dc5f17703056e0302f8d69b127bc",
+    "type": "image/webp",
+    "bytes": 49304,
+    "verified": true
+  },
+  {
+    "file": "resources\\712230cac0412338465632d502862fb9",
+    "type": "image/webp",
+    "bytes": 54212,
+    "verified": true
+  },
+  {
+    "file": "resources\\0fc937974d84d2bd0a3273b75dd9b585",
+    "type": "image/webp",
+    "bytes": 55324,
+    "verified": true
+  },
+  {
+    "file": "resources\\63d87272b5a2af0eea4a70a1dbe0fdc7",
+    "type": "image/webp",
+    "bytes": 57558,
+    "verified": true
+  },
+  {
+    "file": "resources\\1c63b3c3c9319ca1a3e3560cf025b75e",
+    "type": "image/webp",
+    "bytes": 53776,
+    "verified": true
+  },
+  {
+    "file": "resources\\25fd43d9cdec7b5ed6e949b5300719fc",
+    "type": "image/webp",
+    "bytes": 61204,
+    "verified": true
+  },
+  {
+    "file": "resources\\45688b113da23dd7bdf83fd001cead25",
+    "type": "image/webp",
+    "bytes": 55282,
+    "verified": true
+  },
+  {
+    "file": "resources\\b0f6cb6a2a9308937145830261634014",
+    "type": "image/webp",
+    "bytes": 22602,
+    "verified": true
+  },
+  {
+    "file": "resources\\f0e00f3c41767bcb58bda5cf7bc967ed",
+    "type": "image/webp",
+    "bytes": 36800,
+    "verified": true
+  },
+  {
+    "file": "resources\\e9ea87b24e7128b4a6edf13978a9e788",
+    "type": "image/webp",
+    "bytes": 32112,
+    "verified": true
+  },
+  {
+    "file": "resources\\e07ccdfbda06330a3f9894fb281ccb31",
+    "type": "image/webp",
+    "bytes": 51356,
+    "verified": true
+  },
+  {
+    "file": "resources\\1e640328aceeb6e56694217c5d2902e5",
+    "type": "image/webp",
+    "bytes": 58688,
+    "verified": true
+  },
+  {
+    "file": "globalResources\\globalResources.json",
+    "type": "application/vnd.adobe.uxdesign.globalResources+json",
+    "bytes": 62213,
+    "verified": true
+  }
+]
